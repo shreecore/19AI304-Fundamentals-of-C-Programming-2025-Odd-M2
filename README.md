@@ -325,7 +325,7 @@ int main() {
  2  3  4  5  6  7  0  7  6  5  4  3  2
  
  1  2  3  4  5  6  7  0  7  6  5  4  3  2  1
-#Date:20-11-2025
+# Date:20-11-2025
 # Aim: 
   To formulate a C program to print a symmetric numeric pattern in which each row contains an increasing sequence of numbers from the row value up to 7, followed by 0 in the center, and then a decreasing sequence of numbers back to the row value.
 # Algorithm:
@@ -353,7 +353,8 @@ int main() {
   Decrease i by 1 and go back to Step 6.
 ### Step 8:
   Stop
-#Program:
+  
+# Program:
 ```
 #include <stdio.h>
 
@@ -382,7 +383,7 @@ int main() {
     return 0;
 }
 ```
-#output:
+# Output:
 <img width="1918" height="1021" alt="image" src="https://github.com/user-attachments/assets/894366c6-c6f5-4e8f-bc9b-113719670b6a" />
 
 # Result:
